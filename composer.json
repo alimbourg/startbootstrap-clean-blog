@@ -1,0 +1,31 @@
+{
+    "name": "alimbourg/start-bootstrap-clean-blog",
+    "description": "A class to easily query the properties of an ssl certificate ",
+    "keywords": [
+        "blog",
+        "clean,"
+    ],
+    "homepage": "https://github.com/StartBootstrap/startbootstrap-clean-blog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Freek Van der Herten",
+            "email": "freek@spatie.be",
+            "homepage": "https://spatie.be",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+    },
+    "autoload-dev": {
+    },
+    "scripts": {
+    },
+    "config": {
+        "sort-packages": true
+  }
+}
