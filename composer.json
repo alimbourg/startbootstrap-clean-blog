@@ -1,6 +1,6 @@
 {
     "name": "alimbourg/start-bootstrap-clean-blog",
-    "description": "A class to easily query the properties of an ssl certificate ",
+    "description": "A template for bootstrap",
     "keywords": [
         "blog",
         "clean,"
@@ -16,12 +16,19 @@
         }
     ],
     "require": {
+        "composer/installers": "*"
     },
     "require-dev": {
     },
     "autoload": {
     },
     "autoload-dev": {
+    },
+     "extra": {
+        "installer-name": "bootstrap"
+    },
+    "replace": {
+        "alimbourg/startbootstrap-clean-blog": "*"
     },
     "scripts": {
     },
