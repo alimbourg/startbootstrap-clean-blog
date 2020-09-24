@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "composer/installers": "*",
+        "composer/installers": "*"
     },
     "require-dev": {
     },
@@ -28,7 +28,7 @@
         "installer-name": "bootstrap"
     },
     "replace": {
-        "jeffwhitfield/silverstripe-bootstrap-theme": "*"
+        "alimbourg/startbootstrap-clean-blog": "*"
     },
     "scripts": {
     },
